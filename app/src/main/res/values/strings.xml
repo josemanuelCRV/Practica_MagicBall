@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Bola de Cristal</string>
+
+    <string name="respuesta">“Ola k ase, adivino o ke ase”</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_Pregunta">Haz tu pregunta</string>
+
+
+
+    <string-array name="answer_array">
+        <item>En mi opinión, sí</item>
+        <item>Es cierto</item>
+        <item>Es decididamente así</item>
+        <item>Probablemente</item>
+        <item>Buen pronóstico</item>
+        <item>Todo apunta a que sí</item>
+        <item>Sin duda</item>
+        <item>Sí</item>
+        <item>Sí definitivamente</item>
+        <item>Debes confiar en ello</item>
+
+        <item>Respuesta vaga, vuelve a intentarlo</item>
+        <item>Pregunta en otro momento</item>
+        <item>Será mejor que no te lo diga ahora</item>
+        <item>No puedo predecirlo ahora</item>
+        <item>Concéntrate y vuelve a preguntar</item>
+
+        <item>No cuentes con ello</item>
+        <item>Mi respuesta es no</item>
+        <item>Mis fuentes me dicen que no</item>
+        <item>Las perspectivas no son buenas</item>
+        <item>Muy dudoso</item>
+    </string-array>
+
+
+
+
+</resources>
